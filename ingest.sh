@@ -2,7 +2,7 @@
 # ============================================================
 # Card Ingest & Organizer
 #
-# https://github.com/<tuo-utente>/card-ingest  -  licenza MIT
+# https://github.com/FRAmaso-04/card-ingest  -  licenza MIT
 #
 # Revisione 2026-10-26:
 #  - ignora immagini disco (.dmg), installer e volumi di sistema

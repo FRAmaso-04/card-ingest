@@ -4,7 +4,7 @@
 
 *[Read in English](README.md)*
 
-<!-- Aggiungi qui uno screenshot o una GIF della galleria: docs/gallery.png -->
+![Galleria di Card Ingest](docs/gallery.png)
 
 ## Funzionalità
 
@@ -27,7 +27,7 @@
 ## Installazione
 
 ```bash
-git clone https://github.com/<tuo-utente>/card-ingest.git
+git clone https://github.com/FRAmaso-04/card-ingest.git
 cd card-ingest
 ./install.sh
 ```
@@ -70,8 +70,8 @@ Le foto e i video copiati non vengono mai toccati.
 
 Card Ingest è gratuito e open source. Se ti fa risparmiare tempo puoi sostenerlo:
 <!-- sostituisci con i tuoi link -->
-- GitHub Sponsors: `https://github.com/sponsors/<tuo-utente>`
-- Ko-fi: `https://ko-fi.com/<tuo-utente>`
+- GitHub Sponsors: `https://github.com/sponsors/FRAmaso-04`
+- Ko-fi: `https://ko-fi.com/FRAmaso-04`
 
 Segnalazioni di bug e pull request sono benvenute.
 
