@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Personal state and logs (they live in ~/.card_ingest, never commit them)
+config.sh
+blacklist.txt
+known_volumes.txt
+recent_projects.txt
+pending_volumes.txt
+dest_index.*
+*.log
+
+# Backups
+*.bak
+*.bak.sh
+*.backup*
+*originale*
